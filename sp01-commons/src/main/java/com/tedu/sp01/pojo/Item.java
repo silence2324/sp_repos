@@ -12,5 +12,5 @@ import lombok.experimental.Accessors;
 public class Item {
 	private Integer id;
 	private String name;
-	private Integer number;  //DuangDuang
+	private Integer number;  //冲突test DuangDuang
 }
