@@ -11,6 +11,6 @@ import lombok.experimental.Accessors;
 @Accessors(chain = true)
 public class Item {
 	private Integer id;
-	private String name;
+	private String name;		//DuangDuang again
 	private Integer number;  //冲突test DuangDuang
 }
